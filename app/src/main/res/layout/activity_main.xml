@@ -37,5 +37,13 @@
             android:src="@drawable/a"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
+        <ImageView
+            android:src="@drawable/c"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:src="@drawable/d"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
     </ViewFlipper>
 </LinearLayout>
